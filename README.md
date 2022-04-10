@@ -1,9 +1,9 @@
 For the explanation of codes please visit below Auther's WiKiDocs.
 
-## English
+# English
 
-Action (Video) Classification_EN : https://wikidocs.net/edit/page/164636
-sing CNN with LSTM's_EN          : https://wikidocs.net/edit/page/164637
+Action (Video) Classification_EN : https://wikidocs.net/edit/page/164636   
+sing CNN with LSTM's_EN          : https://wikidocs.net/edit/page/164637   
 
 https://github.com/RichardMinsooGo
 : This repository will be used as basics of TF2
